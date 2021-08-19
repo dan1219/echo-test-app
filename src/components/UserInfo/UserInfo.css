@@ -1,0 +1,20 @@
+.user-info{
+display: flex;
+width:100vw;
+height: 100vh;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+text-align: center;
+}
+
+.user-info__title{
+  font-family: Arial serif;
+  font-size: 3rem;
+}
+.user-info__logout-button{
+  text-decoration: none;
+  color:#489E69;
+  font-family:Arial serif;
+  font-size: 2rem;
+}
